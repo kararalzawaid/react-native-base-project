@@ -8,6 +8,15 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 npx create-expo-app -e with-router
 ```
 
+
+
+## 🚀 How to start the project
+
+```sh
+yarn/npm install
+yarn/npm start
+```
+
 ## 📝 Notes
 
 - [Expo Router: Docs](https://expo.github.io/router)
